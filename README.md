@@ -17,6 +17,7 @@
 - [课程大纲](https://365.kdocs.cn/l/caAbfIt5y8Fk)
 - [课程PPT](https://cloud.tsinghua.edu.cn/d/dcbb0944631a4291b34c/)
 - [Tutorial](https://book.ncrnalab.org/teaching/)
+- [课程PPT](https://cloud.tsinghua.edu.cn/d/dcbb0944631a4291b34c/)
 
 
   
@@ -24,7 +25,7 @@
 
 ## 生物信息学的四个步骤
 - **Question**: 针对研究中的具体问题，如基因组、代谢组的解析
-- **Information**: 实验所得的数据 (images, sequences, metabolomic data···）
+- **Information**: 实验所得的数据 （images, sequences, metabolomic data···）
 - **Analysis**：数据清洗，基于目的提取特定信息
 - **Modeling**： 基于model或者algorithm进行建模分析
 
