@@ -16,7 +16,7 @@
 
 ## 3. 资源与工具
 - [课程大纲](https://365.kdocs.cn/l/caAbfIt5y8Fk)
-- 常用工具：BLAST, Bowtie2, R/Python (Bioconductor, Pandas, Matplotlib)
+- [课程PPT](https://cloud.tsinghua.edu.cn/d/dcbb0944631a4291b34c/)
 - 在线课程：Coursera, YouTube 教程
 - 社区：Stack Overflow, Biostars
   
